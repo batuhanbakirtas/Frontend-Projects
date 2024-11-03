@@ -1,0 +1,1 @@
+**Frontend Projects:** Projects and exercises covering foundational knowledge, data structures, and algorithms from frontend courses. These include small practices and larger projects created with HTML, CSS, Bootstrap, JavaScript, and React. Each project includes a README file with detailed information.
